@@ -4,6 +4,8 @@ function FooterComponent() {
         <footer className="footer">
             <div className="container">Footer</div>
         </footer>
+
+        
     )
 }
 
